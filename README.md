@@ -47,7 +47,7 @@ Find nearby places using MapKit with custom annotations and search filtering.
 ---
 
 ## 🌐 Connect with Me
-[LinkedIn](https://linkedin.com/in/abouarab) | [Twitter](https://x.com/abouarab) | [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/mohammed-aboarab-564651188)
 
 ---
 
