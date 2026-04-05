@@ -34,8 +34,7 @@ A TikTok-style video platform with advanced performance optimizations.
 - ⚡ Pagination + smooth scrolling performance  
 - 🧱 Built with Clean Architecture + MVVM  
 
-**Tech:** Swift, UIKit, CoreData, Async/Await, Dependency Injection  
-[View on GitHub](https://github.com/abouarab/SocialVideoApp)
+**Tech:** Swift, UIKit, CoreData, Async/Await, Dependency Injection
 
 ---
 
@@ -45,8 +44,7 @@ Real-time chat application with scalable architecture.
 - 🧠 Clean separation using MVVM + UseCases  
 - 🔄 Reactive state handling with Combine  
 
-**Tech:** Swift, Combine, Socket.IO, Clean Architecture  
-[View on GitHub](https://github.com/abouarab/SocketChat-iOS)
+**Tech:** Swift, Combine, Socket.IO, Clean Architecture
 
 ---
 
@@ -56,15 +54,7 @@ Location-based app for discovering nearby places.
 - 🔍 Smart search & filtering  
 - 🎯 Clean and simple UX  
 
-**Tech:** Swift, UIKit, MapKit  
-[View on GitHub](https://github.com/abouarab/MapPlacesFinder)
-
----
-
-## 📊 GitHub Stats
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=abouarab&show_icons=true&theme=tokyonight&hide=prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abouarab&layout=compact&theme=tokyonight)
+**Tech:** Swift, UIKit, MapKit
 
 ---
 
