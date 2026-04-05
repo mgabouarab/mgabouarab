@@ -1,37 +1,61 @@
 # 👋 Hi, I'm Mohammed Abouarab
 
-💻 **iOS Developer** | Swift | MVVM + Clean Architecture | Combine | CoreData  
+💻 **iOS Developer** | Swift | MVVM + Clean Architecture | Combine | Async/Await  
 
-🚀 Passionate about building scalable iOS apps with clean architecture, smooth UX, and high-quality code.
+🚀 I build scalable, high-performance iOS applications with a strong focus on clean architecture, maintainability, and smooth user experience.
 
 ---
 
 ## 🔧 Tech Stack
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?logo=apple&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-64C8FF?logo=swift&logoColor=white)
 ![CoreData](https://img.shields.io/badge/CoreData-339933?logo=apple&logoColor=white)
+![Async/Await](https://img.shields.io/badge/Async%2FAwait-FF6F00?logo=swift&logoColor=white)
+
+---
+
+## 🧠 What I Focus On
+- Clean Architecture (Scalable & testable codebases)
+- Performance optimization (Preloading, caching, smooth scrolling)
+- Real-time features (Sockets, live updates)
+- Building reusable and maintainable UI components
+- Writing production-ready, readable code
 
 ---
 
 ## 📱 Featured Projects
 
 ### 🎬 SocialVideoApp
-TikTok-style video feed with CoreData caching, preloading, and clean MVVM architecture.  
-![SocialVideoApp GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
-**Tech:** Swift, UIKit, MVVM, CoreData, Async/Await  
+A TikTok-style video platform with advanced performance optimizations.  
+- 🔥 Video preloading for instant playback  
+- 💾 CoreData caching for offline-first experience  
+- ⚡ Pagination + smooth scrolling performance  
+- 🧱 Built with Clean Architecture + MVVM  
+
+**Tech:** Swift, UIKit, CoreData, Async/Await, Dependency Injection  
 [View on GitHub](https://github.com/abouarab/SocialVideoApp)
 
+---
+
 ### 💬 SocketChat-iOS
-Real-time chat using Socket.IO with clean architecture and smooth UX.  
-![SocketChat GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)  
-**Tech:** Swift, MVVM, Combine, Socket.IO  
+Real-time chat application with scalable architecture.  
+- ⚡ Live messaging using Socket.IO  
+- 🧠 Clean separation using MVVM + UseCases  
+- 🔄 Reactive state handling with Combine  
+
+**Tech:** Swift, Combine, Socket.IO, Clean Architecture  
 [View on GitHub](https://github.com/abouarab/SocketChat-iOS)
 
+---
+
 ### 🗺️ MapPlacesFinder
-Find nearby places using MapKit with custom annotations and search filtering.  
-![MapPlacesFinder GIF](https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif)  
+Location-based app for discovering nearby places.  
+- 📍 MapKit integration with custom annotations  
+- 🔍 Smart search & filtering  
+- 🎯 Clean and simple UX  
+
 **Tech:** Swift, UIKit, MapKit  
 [View on GitHub](https://github.com/abouarab/MapPlacesFinder)
 
@@ -42,8 +66,6 @@ Find nearby places using MapKit with custom annotations and search filtering.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abouarab&layout=compact&theme=tokyonight)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=abouarab&theme=tokyonight&no-frame=true&margin-w=10)
-
 ---
 
 ## 🌐 Connect with Me
@@ -52,4 +74,4 @@ Find nearby places using MapKit with custom annotations and search filtering.
 ---
 
 ## ⚡ Fun Fact
-I enjoy turning complex problems into elegant, simple iOS solutions! 😎
+I enjoy optimizing performance and making apps feel instant ⚡
